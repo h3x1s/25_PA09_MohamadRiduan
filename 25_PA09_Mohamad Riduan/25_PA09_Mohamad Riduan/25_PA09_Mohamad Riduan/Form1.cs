@@ -63,5 +63,15 @@ namespace _25_PA09_Mohamad_Riduan
             textBox1.Text = string.Empty;
             textBox2.Text = string.Empty;
         }
+
+        private void rb_Ringgit_CheckedChanged(object sender, EventArgs e)
+        {
+            currencyrate = 3.01;
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
