@@ -1,0 +1,10 @@
+C:\Users\Red Hex\Desktop\25_PA09_Mohamad Riduan\25_PA09_Mohamad Riduan\25_PA09_Mohamad Riduan\bin\Debug\25_PA09_Mohamad Riduan.exe.config
+C:\Users\Red Hex\Desktop\25_PA09_Mohamad Riduan\25_PA09_Mohamad Riduan\25_PA09_Mohamad Riduan\bin\Debug\25_PA09_Mohamad Riduan.exe
+C:\Users\Red Hex\Desktop\25_PA09_Mohamad Riduan\25_PA09_Mohamad Riduan\25_PA09_Mohamad Riduan\bin\Debug\25_PA09_Mohamad Riduan.pdb
+C:\Users\Red Hex\Desktop\25_PA09_Mohamad Riduan\25_PA09_Mohamad Riduan\25_PA09_Mohamad Riduan\obj\Debug\25_PA09_Mohamad Riduan.csprojAssemblyReference.cache
+C:\Users\Red Hex\Desktop\25_PA09_Mohamad Riduan\25_PA09_Mohamad Riduan\25_PA09_Mohamad Riduan\obj\Debug\_25_PA09_Mohamad_Riduan.Form1.resources
+C:\Users\Red Hex\Desktop\25_PA09_Mohamad Riduan\25_PA09_Mohamad Riduan\25_PA09_Mohamad Riduan\obj\Debug\_25_PA09_Mohamad_Riduan.Properties.Resources.resources
+C:\Users\Red Hex\Desktop\25_PA09_Mohamad Riduan\25_PA09_Mohamad Riduan\25_PA09_Mohamad Riduan\obj\Debug\25_PA09_Mohamad Riduan.csproj.GenerateResource.cache
+C:\Users\Red Hex\Desktop\25_PA09_Mohamad Riduan\25_PA09_Mohamad Riduan\25_PA09_Mohamad Riduan\obj\Debug\25_PA09_Mohamad Riduan.csproj.CoreCompileInputs.cache
+C:\Users\Red Hex\Desktop\25_PA09_Mohamad Riduan\25_PA09_Mohamad Riduan\25_PA09_Mohamad Riduan\obj\Debug\25_PA09_Mohamad Riduan.exe
+C:\Users\Red Hex\Desktop\25_PA09_Mohamad Riduan\25_PA09_Mohamad Riduan\25_PA09_Mohamad Riduan\obj\Debug\25_PA09_Mohamad Riduan.pdb
